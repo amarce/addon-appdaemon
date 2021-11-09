@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: AppDaemon 4
+# Home Assistant Community Add-on: AppDaemon 4 (High container privileges version)
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
