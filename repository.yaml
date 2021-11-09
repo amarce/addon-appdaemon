@@ -1,0 +1,4 @@
+# Fork of appdaemon with higest privileges
+name: Appdaemon high privileges repository
+url: 'https://github.com/amarce/addon-appdaemon'
+maintainer: Arnau Marcé <me@amarce.me
